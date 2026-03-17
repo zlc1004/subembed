@@ -20,7 +20,7 @@ jobs:
             asset_name: subembed-linux-amd64
           - os: macos-latest
             artifact_name: subembed
-            asset_name: subembed-macos-amd64
+            asset_name: subembed-macos-arm64
           - os: windows-latest
             artifact_name: subembed.exe
             asset_name: subembed-windows-amd64.exe
