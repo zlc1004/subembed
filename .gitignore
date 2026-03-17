@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+subembed
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test_videos/
+test_subs/
+output/
